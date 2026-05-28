@@ -1,0 +1,6 @@
+{
+  "name": "SplitScan",
+  "description": "Mobile-first receipt scanner and Splitwise expense automator. Scan bills to extract details and split them with your Splitwise groups effortlessly.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}

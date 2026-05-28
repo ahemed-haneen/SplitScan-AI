@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:ital,opsz,wght@1,9..144,700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Fraunces", serif;
+  --color-bg-main: #0A0A0A;
+  --color-bg-card: #121212;
+  --color-bg-item: #1A1A1A;
+  --color-border-card: #262626;
+  --color-border-item: #2A2A2A;
+}
+
+@layer base {
+  body {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
